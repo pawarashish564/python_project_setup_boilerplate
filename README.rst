@@ -23,10 +23,10 @@ basic usage of cookiecutter and setuptools
 * Documentation: https://python-project-setup-boilerplate.readthedocs.io.
 
 
-Features
+Steps
 --------
+* cookiecutter https://github.com/audreyr/cookiecutter-pypackage
 
-* TODO
 
 Credits
 -------
